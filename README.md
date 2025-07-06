@@ -18,7 +18,6 @@ Le projet comprend :
 
 - Un **notebook Jupyter** (`Projet_deep_learning.ipynb`) avec tout le pipeline d'entraînement et d'évaluation.
 - Un fichier **`best_model.pth`** contenant les poids du meilleur modèle sauvegardé.
-- Un dossier **MNIST/** (optionnel) avec les fichiers du dataset (générés automatiquement si absents).
 - Ce fichier **README.md**.
 
 ---
@@ -46,9 +45,8 @@ Cela permet au modèle :
 
 ## ⚙️ Technologies utilisées
 
-- Python 3.8+
 - [PyTorch](https://pytorch.org/)
-- torchvision
+- Torch
 - NumPy
 - matplotlib
 - scikit-learn
