@@ -53,8 +53,8 @@ Cela permet au modèle :
 
 ## Auteurs
 
-**Aymane Mimoun**
-**Mohtadi Hammami**
-**Alexandre Combeau**
+- **Aymane Mimoun**
+- **Mohtadi Hammami**
+- **Alexandre Combeau**
 
 Master Data Science - Université Paris-Saclay 2025
